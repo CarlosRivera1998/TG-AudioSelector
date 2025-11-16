@@ -7,10 +7,9 @@
 import os
 
 # Telegram API credentials
-API_ID =   # Replace with your API ID
-API_HASH = ""  # Replace with your API Hash
-BOT_TOKEN = ""  # Replace with your Bot Token
-
+API_ID = "33240544"
+API_HASH = "e6a5ddd0bbea00b0690055e0b8fe9477"
+BOT_TOKEN = "8521662279:AAEWq2yb0x_brtbbGaO7r71wr8XGyTRwuBk"
 # ----------------------------------------
 # 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐁𝐇𝐈
 # 𝐓𝐆 𝐈𝐃 : @𝐂𝐋𝐔𝐓𝐂𝐇𝟎𝟎𝟖
